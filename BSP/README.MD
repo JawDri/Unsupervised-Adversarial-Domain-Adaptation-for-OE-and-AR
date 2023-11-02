@@ -6,4 +6,4 @@ In BSP.ipynb file run the cell for the specific task that you want to test (OE o
 
 Change the number of classes and input feature dimensions inside the code to fit the considered task, and choose the specific method that you want to test.
 
-TO TRAIN AND TEST MSDA: !python train.py
+TO TRAIN AND TEST BSP: !python train.py
